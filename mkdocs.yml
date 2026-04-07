@@ -1,0 +1,11 @@
+site_name: Kin Chong O/A Level Notes
+site_url: https://YOUR_USERNAME.github.io/tuition-notes/
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - A Level:
+      - H2 Chemistry:
+          - "1. Atomic Structure": a-level/h2-chemistry/chap-one-Atomic-Structure.md
