@@ -1,4 +1,4 @@
-# "Chapter 1 Atomic Structure"
+# **Chapter 1 Atomic Structure**
 
 # Atoms and Subatomic Particles
 
