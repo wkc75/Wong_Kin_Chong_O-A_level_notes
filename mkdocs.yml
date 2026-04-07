@@ -8,7 +8,8 @@ nav:
   - Home: index.md
   - A Level:
       - H2 Chemistry:
-          - "1. Atomic Structure": a-level/h2-chemistry/chap-one-Atomic-Structure.md
+          - 1. Atomic Structure:
+              - "1.1 Atoms and Subatomic Particles": a-level/h2-chemistry/chap-one-atomic-structure/atom-and-subatomic-particles.md
 
 markdown_extensions:
   - pymdownx.arithmatex:
