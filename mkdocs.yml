@@ -1,5 +1,5 @@
 site_name: Kin Chong O/A Level Notes
-site_url: https://YOUR_USERNAME.github.io/tuition-notes/
+site_url: https://wkc75.github.io/Wong_Kin_Chong_O-A_level_notes/
 
 theme:
   name: material
@@ -9,7 +9,11 @@ nav:
   - A Level:
       - H2 Chemistry:
           - 1. Atomic Structure:
-              - "1.1 Atoms and Subatomic Particles": a-level/h2-chemistry/chap-one-atomic-structure/atom-and-subatomic-particles.md
+              - Learning Outcome: a-level/h2-chemistry/chap-one-atomic-structure/learning-outcome.md
+              - 1.1 Atoms and Subatomic Particles: a-level/h2-chemistry/chap-one-atomic-structure/atom-and-subatomic-particles.md
+              - 1.2 Isotopes: a-level/h2-chemistry/chap-one-atomic-structure/isotopes.md
+              - 1.3 Ions and deflection of charged particles: a-level/h2-chemistry/chap-one-atomic-structure/chargedParticlesInElectricField.md
+              - 1.4 Relative Masses: a-level/h2-chemistry/chap-one-atomic-structure/relativeMasses.md
 
 markdown_extensions:
   - pymdownx.arithmatex:

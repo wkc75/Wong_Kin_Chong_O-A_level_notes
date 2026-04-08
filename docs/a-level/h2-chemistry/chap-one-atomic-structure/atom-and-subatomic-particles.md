@@ -1,6 +1,10 @@
-# **Chapter 1 Atomic Structure**
+# **Atoms and Subatomic Particles**
 
-# Atoms and Subatomic Particles
+|      | Learning Outcomes                                                                                                                  |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| 1(a) | identify and describe protons, neutrons and electrons in terms of their relative charges and relative masses                       |
+| 1(c) | describe the distribution of mass and charges within an atom                                                                       |
+| 1(d) | deduce the numbers of protons, neutrons and electrons present in both atoms and ions given proton and nucleon numbers (and charge) |
 
 An atom is the smallest component of an element having the chemical properties of the element.
 
@@ -14,10 +18,10 @@ The protons and neutrons make up the nucleus of the atom. Thus they are also ref
 
 ## Relative Mass and Charge of Subatomic Particles
 
-| property        | proton | electron         | neutron |
-| --------------- | ------ | ---------------- | ------- |
-| relative charge | +1     | -1               | 0       |
-| relative mass   | 1      | $\frac{1}{1836}$ | 1       |
+| property            | proton | electron         | neutron |
+| ------------------- | ------ | ---------------- | ------- |
+| **relative charge** | +1     | -1               | 0       |
+| **relative mass**   | 1      | $\frac{1}{1836}$ | 1       |
 
 ### Distribution of Mass and Charge in an Atom
 
@@ -29,8 +33,14 @@ So far, we know that
 - The electrons are negatively charged
 - The neutrons are neutral
 
-Therefore, we can say that 99% of the mass is concentrated in the nucleus. All the positive charges are in the nucleus and the negative charges are on the electrons.
+Therefore, we can say that **99% of the mass is concentrated in the nucleus**. **All the positive charges are in the nucleus** and **the negative charges are on the electrons**.
 
 ### Nuclide Notation
 
 $$^{A}_{Z}\mathrm{X}$$
+
+The **proton number (Z) is the number of protons** in the nucleus of each atom of an element.
+
+In the atom, **the number of electrons is also equal to the number of protons** since atoms are neutral
+
+The **nucleon number (A), also called the mass number, is the total number of neutrons and proton**s in the nucleus of an atom of an element.
