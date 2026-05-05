@@ -107,3 +107,5 @@ extra_javascript:
     type: module
   - path: javascripts/chapTwo/metallic-lattice.js
     type: module
+  - path: javascripts/chapOne/charged-particle-deflection.js
+    type: module

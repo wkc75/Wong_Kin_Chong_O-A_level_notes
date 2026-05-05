@@ -12,13 +12,13 @@ A **positive ion (cation)** has more protons than electrons.
 
 ## **What happens when particles pass through electric field**
 
-![Deflection Diagram](images/deflectionDiagram.jpg)
-
 Since like charges repel and unlike charges attract, **negatively charged particles such as electrons will be attracted to the positive plate** while **positively charged particles such as protons will be attracted to the negative plate**.
 
 Neutron particles such as neutrons experience **no attraction/repulsion** and thus are not deflected.
 
-However, if you have not realised, the proton and electron are deflected by different angles! More precise, angle 1 (electron) is greater than angle 2 (proton)
+<div id="charged-particle-deflection"></div>
+
+However, if you have not realised, the proton and electron are deflected by different angles! More precise, angle of deflection of electron is greater than that of proton.
 
 The reason is simple and requires a tiny bit of Physics.
 
