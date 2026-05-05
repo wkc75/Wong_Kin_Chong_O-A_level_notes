@@ -29,6 +29,44 @@ nav:
                   - 1.3.2 Atomic Radius: a-level/h2-chemistry/chap-one-atomic-structure/part3Periodicity/atomicRadius.md
                   - 1.3.3 Ionic Radius: a-level/h2-chemistry/chap-one-atomic-structure/part3Periodicity/ionicRadius.md
                   - 1.3.4 Ionisation Energy: a-level/h2-chemistry/chap-one-atomic-structure/part3Periodicity/IonisationEnergies.md
+          - 2. Chemical Bonding:
+              - Chapter Overview: a-level/h2-chemistry/chap-two-chemical-bonding/learning-outcome.md
+              - 2.1 Introduction to Chemical Bonding:
+                  - 2.1.1 Nature of Chemical Bonds: a-level/h2-chemistry/chap-two-chemical-bonding/part1IntroductionToChemicalBonding/natureOfChemicalBonding.md
+              #    - 2.1.2 Electronegativity:
+              #    - 2.1.3 Electronegativity and Chemical Bonding:
+              #- 2.2 Metallic Bonding:
+              #    - 2.2.1 Metallic Bonding and Structure
+              #    - 2.2.2 Physical Properties of Metal
+              #- 2.3 Ionic Bonding:
+              #    - 2.3.1 Ionic Bonding and Structure
+              #    - 2.3.2 Physical Properties of Ionic Compounds
+              #- 2.4 Covalent Bonding:
+              #   - 2.4.1 Covalent Bonding and Orbital Overlap:
+              #   - 2.4.2 Bond Strength
+              #- 2.5 Dot and Cross Diagram
+              #   - 2.5.1 Ionic Compound
+              #   - 2.5.2 Exception to the Octet Rule:
+              #   - 2.5.3 Radical
+              #   - 2.5.4 Dative Bonding
+              #   - 2.5.6 Covalent Molecules
+              #   - 2.5.5 Polyatomic Ions
+              #- 2.6 VSEPR
+              #- 2.7 Hybridisation
+              #- 2.8 Bond Polarity and Molecular Polarity
+              #-2.9 Intermolecular Forces
+              #   - 2.9.1 Dispersion Force
+              #   - 2.9.2 ID-PD Attraction
+              #   - 2.9.3 PD-PD Attraction
+              #   - 2.9.4 Hydrogen Bonding
+              #   - 2.9.5 Effects of Hydrogen Bonding
+              #- 2.10 Simple Molecular and Giant Molecular Structure
+              #   - 2.10.1 Simple Molecular Structure
+              #   - 2.10.2 Giant Molecular Structure
+              #- 2.11 Physical Periodicity
+              #   - 2.11.1 Meliting Point Across Period 3
+              #   - 2.11.2 Electrical Conductivity Across Period 3
+              #- 2.12 Solubility of a Substance in a given Solvent
       - H2 Physics:
           - 13. Circuit:
               - Learning Outcome: a-level/h2-physics/circuit/learning-outcome.md
