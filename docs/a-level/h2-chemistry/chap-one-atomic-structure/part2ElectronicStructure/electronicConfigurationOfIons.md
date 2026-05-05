@@ -14,7 +14,7 @@
 Suppose we want to find the electronic configuration of $Fe^{2+}$
 
 1. First we find the electronic configuration of Fe, $1s^2 \, 2s^2 \, 2p^6 \, 3s^2 \, 3p^6 \, 3d^6 \, 4s^2$
-2. Remove 2 (since the charge is 2+) electrons, starting from the **highest** energy subshell, $1s^2 \, 2s^2 \, 2p^6 \, 3s^2 \, 3p^6 \, 3d^6 $
+2. Remove 2 (since the charge is 2+) electrons, starting from the **highest** energy subshell, $1s^2 \, 2s^2 \, 2p^6 \, 3s^2 \, 3p^6 \, 3d^6$
 
 ## **Anions**
 
