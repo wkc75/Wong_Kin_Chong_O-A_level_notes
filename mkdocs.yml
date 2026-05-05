@@ -6,6 +6,7 @@ theme:
 
 extra_css:
   - stylesheets/definition-box.css
+  - stylesheets/page-navigation-buttons.css
 
 nav:
   - Home: index.md
@@ -80,6 +81,8 @@ markdown_extensions:
 
 extra_javascript:
   - javascripts/mathjax.js
+  - path: javascripts/page-navigation-buttons.js
+    type: module
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
   - path: javascripts/chapOne/s-orbital.js
     type: module
