@@ -32,8 +32,10 @@ if (container) {
 
     container.classList.add("group-one-radius-component");
     container.innerHTML = `
-        <div class="group-one-radius-row" aria-label="Group 1 atomic radii trend">
-            ${atoms.map(createAtomCard).join("")}
+        <div class="group-one-radius-scroller">
+            <div class="group-one-radius-row" aria-label="Group 1 atomic radii trend">
+                ${atoms.map(createAtomCard).join("")}
+            </div>
         </div>
     `;
 }
@@ -111,9 +113,15 @@ function injectStyles() {
             color: #d71920;
         }
 
+        .group-one-radius-scroller {
+            overflow-x: auto;
+            padding-bottom: 0.35rem;
+        }
+
         .group-one-radius-row {
             display: grid;
             grid-template-columns: repeat(4, minmax(150px, 1fr));
+            min-width: 680px;
             gap: 0.75rem;
             align-items: stretch;
         }
@@ -183,18 +191,6 @@ function injectStyles() {
             color: #1f2933;
             font-size: 0.95rem;
             line-height: 1.5;
-        }
-
-        @media (max-width: 760px) {
-            .group-one-radius-row {
-                grid-template-columns: repeat(2, minmax(0, 1fr));
-            }
-        }
-
-        @media (max-width: 440px) {
-            .group-one-radius-row {
-                grid-template-columns: 1fr;
-            }
         }
 
         @keyframes group-one-radius-enter {
