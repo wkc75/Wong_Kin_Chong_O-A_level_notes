@@ -1,10 +1,10 @@
-# Principal Quantum Shells, Subshells and Orbitals
+# **Principal Quantum Shells, Subshells and Orbitals**
 
 |      | Learning Outcomes                                                                                                                                   |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1(f) | describe the number of the relative energies of the s, p and d orbitals for the principal quantum number 1, 2 and 3 and also the 4s and 4p orbitals |
 
-# Principal Quantum Shells
+# **Principal Quantum Shells**
 
 ![electronic shell](../images/electronicShell.jpg)
 
@@ -20,7 +20,7 @@ As the principal quantum number increases, **size**, **maximum number of electro
 | -------------------------------------- | --- | --- | --- | --- |
 | maximum number of electrons ($2n^{2}$) | 2   | 8   | 18  | 32  |
 
-# Subshells
+# **Subshells**
 
 <!-- prettier-ignore-->
 !!! Tip
@@ -40,7 +40,7 @@ In the **same** principal quantum shell, the energy level of subshells increases
 
 For subshells in **different** principal quantum shells, subshells in quantum shells with higher principal quantum number have higher energy levels. That is 1s < 2s < 3s.
 
-# Orbitals
+# **Orbitals**
 
 **An atomic orbital is the region of space with 90% probability of finding an electron**.
 
@@ -54,7 +54,7 @@ For subshells in **different** principal quantum shells, subshells in quantum sh
 | d        | 5                  | 10                                           |
 | f        | 7                  | 14                                           |
 
-# Summary
+# **Summary**
 
 | principal quantum number, n | subshell                   | number of orbitals     | maximum number of electrons in each principal quantum shell, $2n^{2}$ |
 | --------------------------- | -------------------------- | ---------------------- | --------------------------------------------------------------------- |

@@ -1,6 +1,6 @@
-# Electronic Configuration of Ions
+# **Electronic Configuration of Ions**
 
-## Cations
+## **Cations**
 
 1. First write the electronic configuration of the atom
 2. Remove the number of electrons equal to the positive charge, starting from the **highest** energy subshell
@@ -9,19 +9,19 @@
 !!! Important
     4s electrons are removed before 3d
 
-### Working Example
+### **Working Example**
 
 Suppose we want to find the electronic configuration of $Fe^{2+}$
 
 1. First we find the electronic configuration of Fe, $1s^2 \, 2s^2 \, 2p^6 \, 3s^2 \, 3p^6 \, 3d^6 \, 4s^2$
 2. Remove 2 (since the charge is 2+) electrons, starting from the **highest** energy subshell, $1s^2 \, 2s^2 \, 2p^6 \, 3s^2 \, 3p^6 \, 3d^6 $
 
-## Anions
+## **Anions**
 
 1. First write the electronic configuration of the atom
 2. Add the number of electrons equal to the negative charge, starting from the **lowest** energy available subshell
 
-### Working Example
+### **Working Example**
 
 Suppose we want to find the eletronic configuration of $N^{-3}$
 

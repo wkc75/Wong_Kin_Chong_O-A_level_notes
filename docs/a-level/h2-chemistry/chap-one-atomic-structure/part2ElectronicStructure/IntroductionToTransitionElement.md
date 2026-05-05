@@ -1,6 +1,6 @@
-# Introudction to Transition Elements
+# **Introudction to Transition Elements**
 
-## s, p and d blocks
+## **s, p and d blocks**
 
 The periodic table can be divided into s-block, p-block and d-block based on the electronic configuration of the atoms.
 
@@ -89,7 +89,7 @@ The periodic table can be divided into s-block, p-block and d-block based on the
 
 ![period table](../images/blocks-periodTable.png)
 
-## Transition Metal
+## **Transition Metal**
 
 <!-- prettier-ignore -->
 !!! Defintion

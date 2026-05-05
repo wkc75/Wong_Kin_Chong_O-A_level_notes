@@ -4,13 +4,13 @@
 | ---- | ------------------------------------------------------------------------------------- |
 | 1(b) | deduce the behaviour of beams of protons, neutrons and electrons in an electric field |
 
-## Ions
+## **Ions**
 
 A **negative ion (anion)** has more electrons than protons.
 
 A **positive ion (cation)** has more protons than electrons.
 
-## What happens when particles pass through electric field
+## **What happens when particles pass through electric field**
 
 ![Deflection Diagram](images/deflectionDiagram.jpg)
 

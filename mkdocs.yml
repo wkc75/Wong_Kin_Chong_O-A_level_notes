@@ -24,7 +24,7 @@ nav:
               - 1.3 Periodicity:
                   - 1.3.1 Number of Quantum Shells and Effective Nuclear Charge: a-level/h2-chemistry/chap-one-atomic-structure/part3Periodicity/quantumShellandEffectiveNuclearCharge.md
                   - 1.3.2 Atomic Radius: a-level/h2-chemistry/chap-one-atomic-structure/part3Periodicity/atomicRadius.md
-              #- 1.3.3 Ionic Radius:
+                  - 1.3.3 Ionic Radius: a-level/h2-chemistry/chap-one-atomic-structure/part3Periodicity/ionicRadius.md
               #- 1.3.4 Ionisation Energy:
       - H2 Physics:
           - 13. Circuit:
@@ -53,4 +53,8 @@ extra_javascript:
   - path: javascripts/chapOne/group-one-atomic-radius.js
     type: module
   - path: javascripts/chapOne/period-two-atomic-radius.js
+    type: module
+  - path: javascripts/chapOne/group-one-ionic-radius.js
+    type: module
+  - path: javascripts/chapOne/period-three-ionic-radius.js
     type: module

@@ -1,10 +1,10 @@
-# Shapes of Orbitals
+# **Shapes of Orbitals**
 
 |      | Learning Outcomes                          |
 | ---- | ------------------------------------------ |
 | 1(g) | describe the shapes of s, p and d orbitals |
 
-# The s Orbital
+# **The s Orbital**
 
 Each s subshell only has one s orbital.
 
@@ -16,7 +16,7 @@ The size of s orbitals increase with the principal quantum number, 1s < 2s < 3s 
 
 ![s orbital](../images/s-orbital.jpg)
 
-# The p Orbital
+# **The p Orbital**
 
 Each p subshell has three p orbitals.
 
@@ -30,7 +30,7 @@ The size and energy level of p orbitals increase with the principal quantum numb
 
 ![p orbitals](../images/p-orbitals.jpg)
 
-# The d Orbital
+# **The d Orbital**
 
 Each d subshell has five d orbitals.
 
