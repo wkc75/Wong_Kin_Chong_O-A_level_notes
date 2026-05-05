@@ -5,7 +5,7 @@
     **First Ionisation energy** is the energy required to remove 1 mole of electrons from 1 mole of gaseous atoms to form 1 mole of unipositively charged gaseous ions.
 
 $$
-X(g) \rightarrow X^{+}_{g} + e^-
+X_{(g)} \rightarrow X^{+}_{(g)} + e^-
 $$
 
 <!--prettier-ignore-->
@@ -13,7 +13,7 @@ $$
     **The nth Ionisation energy** is the energy required to remove 1 mole of electrons from 1 mole of gaseous ions with a charge of (n - 1)+ to form 1 mole of gaseous ions with charge of n+.
 
 $$
-X^{(n - 1)+}_(g) \rightarrow X^{n+}_{g} + e^-
+X^{(n - 1)+}_{(g)} \rightarrow X^{n+}_{g} + e^-
 $$
 
 ## **Factors affecting ionisation energy**

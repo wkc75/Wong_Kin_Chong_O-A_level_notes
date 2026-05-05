@@ -1,0 +1,29 @@
+.md-typeset .admonition.definition,
+.md-typeset details.definition {
+    border-color: #2563eb;
+    background: #f8fbff;
+    border-radius: 8px;
+}
+
+.md-typeset .definition > .admonition-title,
+.md-typeset .definition > summary {
+    background: #eaf2ff;
+    color: #1e3a8a;
+    font-size: 1.05rem;
+    font-weight: 700;
+}
+
+.md-typeset .definition > .admonition-title::before,
+.md-typeset .definition > summary::before {
+    background-color: #2563eb;
+}
+
+.md-typeset .admonition.definition,
+.md-typeset details.definition {
+    font-size: 1.02rem;
+}
+
+.md-typeset .admonition.definition > :not(.admonition-title),
+.md-typeset details.definition > :not(summary) {
+    font-size: 1.02rem;
+}
