@@ -38,7 +38,7 @@ nav:
                   - 2.1.3 Electronegativity and Chemical Bonding: a-level/h2-chemistry/chap-two-chemical-bonding/part1IntroductionToChemicalBonding/electronegativityAndChemicalBonding.md
               - 2.2 Metallic Bonding:
                   - 2.2.1 Metallic Bonding and Structure: a-level/h2-chemistry/chap-two-chemical-bonding/part2MetallicBonding/metallicBondingAndStructure.md
-              #    - 2.2.2 Physical Properties of Metal
+                  - 2.2.2 Physical Properties of Metal: a-level/h2-chemistry/chap-two-chemical-bonding/part2MetallicBonding/physicalPropertiesOfMetal.md
               #- 2.3 Ionic Bonding:
               #    - 2.3.1 Ionic Bonding and Structure
               #    - 2.3.2 Physical Properties of Ionic Compounds
@@ -86,6 +86,8 @@ extra_javascript:
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
   - path: javascripts/chapOne/s-orbital.js
     type: module
+  - path: javascripts/chapOne/principal-quantum-shell-atom.js
+    type: module
   - path: javascripts/chapOne/p-orbital.js
     type: module
   - path: javascripts/chapOne/d-orbital.js
@@ -109,6 +111,8 @@ extra_javascript:
   - path: javascripts/chapOne/period-two-first-ionisation-energy.js
     type: module
   - path: javascripts/chapTwo/metallic-lattice.js
+    type: module
+  - path: javascripts/chapTwo/metal-layer-sliding.js
     type: module
   - path: javascripts/chapOne/charged-particle-deflection.js
     type: module

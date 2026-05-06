@@ -6,7 +6,7 @@
 
 # **Principal Quantum Shells**
 
-![electronic shell](../images/electronicShell.jpg)
+<div id="principal-quantum-shell-atom"></div>
 
 Previously in O level, we learn that electrons reside in **electronic shells**.
 
