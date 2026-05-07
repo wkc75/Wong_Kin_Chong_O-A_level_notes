@@ -31,4 +31,4 @@ $$
 
 <!--prettier-ignore-->
 !!! tip
-    Ionic charge usually affects lattice energy more than ionic radius because the ionic charges are multiplied together in the numerator.
+    **Ionic charge usually affects lattice energy more** than ionic radius because the ionic charges are multiplied together in the numerator.
