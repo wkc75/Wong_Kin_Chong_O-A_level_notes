@@ -188,13 +188,6 @@ function createVseprShapeData() {
         [0, 1, 0],
         [0, -1, 0],
     ];
-    const squarePyramidal = [
-        [1, 0.22, 0],
-        [-1, 0.22, 0],
-        [0, 0.22, 1],
-        [0, 0.22, -1],
-        [0, 1, 0],
-    ];
 
     const data = [
         {
@@ -281,7 +274,7 @@ function createVseprShapeData() {
             key: "5-1",
             name: "square pyramidal",
             angle: "about 90 deg",
-            bonds: squarePyramidal,
+            bonds: octahedral.slice(0, 5),
             lonePairs: [octahedral[5]],
         },
         {
