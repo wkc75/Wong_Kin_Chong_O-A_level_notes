@@ -47,9 +47,8 @@ nav:
               - 2.5 Dot and Cross Diagram:
                   - 2.5.1 Ionic Compound: a-level/h2-chemistry/chap-two-chemical-bonding/part5DotandCrossDiagram/IonicCompound.md
                   - 2.5.2 Exception to the Octet Rule: a-level/h2-chemistry/chap-two-chemical-bonding/part5DotandCrossDiagram/exceptionToTheOctetRule.md
-              #   - 2.5.3 Radical
-              #   - 2.5.4 Dative Bonding
-              #   - 2.5.6 Covalent Molecules
+                  - 2.5.3 Dative Bonding: a-level/h2-chemistry/chap-two-chemical-bonding/part5DotandCrossDiagram/dativeBonding.md
+              #   - 2.5.4 Covalent Molecules
               #   - 2.5.5 Polyatomic Ions
               #- 2.6 VSEPR
               #- 2.7 Hybridisation
@@ -122,6 +121,8 @@ extra_javascript:
   - path: javascripts/chapTwo/pi-bond-overlap.js
     type: module
   - path: javascripts/chapTwo/ionic-dot-cross.js
+    type: module
+  - path: javascripts/chapTwo/octet-exception-dot-cross.js
     type: module
   - path: javascripts/chapOne/charged-particle-deflection.js
     type: module
