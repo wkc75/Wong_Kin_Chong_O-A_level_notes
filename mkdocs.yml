@@ -44,9 +44,9 @@ nav:
                   - 2.3.2 Physical Properties of Ionic Compounds: a-level/h2-chemistry/chap-two-chemical-bonding/part3IonicBonding/physicalPropertiesOfIonicCompounds.md
               - 2.4 Covalent Bonding:
                   - 2.4.1 Covalent Bonding and Orbital Overlap: a-level/h2-chemistry/chap-two-chemical-bonding/part4CovalentBonding/covalentBondingAndOrbitalOverlap.md
-              #- 2.5 Dot and Cross Diagram
-              #   - 2.5.1 Ionic Compound
-              #   - 2.5.2 Exception to the Octet Rule:
+              - 2.5 Dot and Cross Diagram:
+                  - 2.5.1 Ionic Compound: a-level/h2-chemistry/chap-two-chemical-bonding/part5DotandCrossDiagram/IonicCompound.md
+                  - 2.5.2 Exception to the Octet Rule: a-level/h2-chemistry/chap-two-chemical-bonding/part5DotandCrossDiagram/exceptionToTheOctetRule.md
               #   - 2.5.3 Radical
               #   - 2.5.4 Dative Bonding
               #   - 2.5.6 Covalent Molecules
@@ -120,6 +120,8 @@ extra_javascript:
   - path: javascripts/chapTwo/sigma-bond-overlap.js
     type: module
   - path: javascripts/chapTwo/pi-bond-overlap.js
+    type: module
+  - path: javascripts/chapTwo/ionic-dot-cross.js
     type: module
   - path: javascripts/chapOne/charged-particle-deflection.js
     type: module
