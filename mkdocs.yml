@@ -49,7 +49,9 @@ nav:
                   - 2.5.2 Exception to the Octet Rule: a-level/h2-chemistry/chap-two-chemical-bonding/part5DotandCrossDiagram/exceptionToTheOctetRule.md
                   - 2.5.3 Dative Bonding: a-level/h2-chemistry/chap-two-chemical-bonding/part5DotandCrossDiagram/dativeBonding.md
                   - 2.5.4 Covalent Molecules: a-level/h2-chemistry/chap-two-chemical-bonding/part5DotandCrossDiagram/covalentMolecules.md
-              #- 2.6 VSEPR
+              - 2.6 VSEPR:
+                  - 2.6.1 VSEPR: a-level/h2-chemistry/chap-two-chemical-bonding/part6VSEPR/VSEPR.md
+                  - 2.6.2 Shapes of Molecules: a-level/h2-chemistry/chap-two-chemical-bonding/part6VSEPR/shapesOfMolecules.md
               #- 2.7 Hybridisation
               #- 2.8 Bond Polarity and Molecular Polarity
               #-2.9 Intermolecular Forces
@@ -122,6 +124,8 @@ extra_javascript:
   - path: javascripts/chapTwo/ionic-dot-cross.js
     type: module
   - path: javascripts/chapTwo/octet-exception-dot-cross.js
+    type: module
+  - path: javascripts/chapTwo/vsepr-shapes.js
     type: module
   - path: javascripts/chapOne/charged-particle-deflection.js
     type: module
