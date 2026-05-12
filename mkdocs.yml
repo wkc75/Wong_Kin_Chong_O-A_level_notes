@@ -72,6 +72,13 @@ nav:
       - H2 Physics:
           - 13. Circuit:
               - Learning Outcome: a-level/h2-physics/circuit/learning-outcome.md
+  - International A:
+      - Physics:
+          - 1. Physical Quantities and Units:
+              - 1.1 Physical Quantities and SI Units: InternationalALevel/physics/chapt1/1.1physicalQuantities.md
+              - 1.2 Accuracy, Precision and Errors: InternationalALevel/physics/chapt1/1.2Errors.md
+              - 1.3 Uncertainties: InternationalALevel/physics/chapt1/1.3Uncertainties.md
+              - 1.4 Scalars and Vectors: InternationalALevel/physics/chapt1/1.4ScalarsAndVectors.md
 
 markdown_extensions:
   - pymdownx.arithmatex:
@@ -138,4 +145,10 @@ extra_javascript:
   - path: javascripts/chapTwo/sp-hybridisation.js
     type: module
   - path: javascripts/chapOne/charged-particle-deflection.js
+    type: module
+  - path: javascripts/ialPhysics/accuracy-precision-target.js
+    type: module
+  - path: javascripts/ialPhysics/vector-resolution.js
+    type: module
+  - path: javascripts/ialPhysics/vector-addition-steps.js
     type: module
