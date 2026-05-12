@@ -56,6 +56,7 @@ nav:
                   - 2.7.1 Hybridisation: a-level/h2-chemistry/chap-two-chemical-bonding/part7Hybridisation/hybridisation.md
               - 2.8 Ionic Bonding with Covalent Character, Bond Polarity and Molecular Polarity:
                   - 2.8.1 Ionic Bonding with Covalent Character: a-level/h2-chemistry/chap-two-chemical-bonding/part8IonicBondingWithCovalentCharacterAndPolarBonds/ionicBondingWithCovalentCharacter.md
+                  - 2.8.2 Polarity of Molecules: a-level/h2-chemistry/chap-two-chemical-bonding/part8IonicBondingWithCovalentCharacterAndPolarBonds/molecularPolarity.md
               #-2.9 Intermolecular Forces
               #   - 2.9.1 Dispersion Force
               #   - 2.9.2 ID-PD Attraction
@@ -143,6 +144,10 @@ extra_javascript:
   - path: javascripts/chapTwo/sp2-hybridisation.js
     type: module
   - path: javascripts/chapTwo/sp-hybridisation.js
+    type: module
+  - path: javascripts/chapTwo/molecular-polarity.js
+    type: module
+  - path: javascripts/chapTwo/molecular-net-polarity.js
     type: module
   - path: javascripts/chapOne/charged-particle-deflection.js
     type: module
