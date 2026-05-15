@@ -57,11 +57,10 @@ nav:
               - 2.8 Ionic Bonding with Covalent Character, Bond Polarity and Molecular Polarity:
                   - 2.8.1 Ionic Bonding with Covalent Character: a-level/h2-chemistry/chap-two-chemical-bonding/part8IonicBondingWithCovalentCharacterAndPolarBonds/ionicBondingWithCovalentCharacter.md
                   - 2.8.2 Polarity of Molecules: a-level/h2-chemistry/chap-two-chemical-bonding/part8IonicBondingWithCovalentCharacterAndPolarBonds/molecularPolarity.md
-              #-2.9 Intermolecular Forces
-              #   - 2.9.1 Dispersion Force
-              #   - 2.9.2 ID-PD Attraction
-              #   - 2.9.3 PD-PD Attraction
-              #   - 2.9.4 Hydrogen Bonding
+              - 2.9 Intermolecular Forces:
+                 - 2.9.1 Dispersion Force: a-level/h2-chemistry/chap-two-chemical-bonding/part9IntermolecularForces/dispersionForce.md
+                 - 2.9.2 PD-PD Attraction: a-level/h2-chemistry/chap-two-chemical-bonding/part9IntermolecularForces/pd-pdAttraction.md
+                 - 2.9.3 Hydrogen Bonding: a-level/h2-chemistry/chap-two-chemical-bonding/part9IntermolecularForces/hydrogenBonding.md
               #   - 2.9.5 Effects of Hydrogen Bonding
               #- 2.10 Simple Molecular and Giant Molecular Structure
               #   - 2.10.1 Simple Molecular Structure
@@ -148,6 +147,12 @@ extra_javascript:
   - path: javascripts/chapTwo/molecular-polarity.js
     type: module
   - path: javascripts/chapTwo/molecular-net-polarity.js
+    type: module
+  - path: javascripts/chapTwo/dispersion-force.js
+    type: module
+  - path: javascripts/chapTwo/permanent-dipole-attraction.js
+    type: module
+  - path: javascripts/chapTwo/hydrogen-bonding.js
     type: module
   - path: javascripts/chapOne/charged-particle-deflection.js
     type: module
