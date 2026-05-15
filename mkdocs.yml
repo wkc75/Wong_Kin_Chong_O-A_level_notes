@@ -61,7 +61,7 @@ nav:
                  - 2.9.1 Dispersion Force: a-level/h2-chemistry/chap-two-chemical-bonding/part9IntermolecularForces/dispersionForce.md
                  - 2.9.2 PD-PD Attraction: a-level/h2-chemistry/chap-two-chemical-bonding/part9IntermolecularForces/pd-pdAttraction.md
                  - 2.9.3 Hydrogen Bonding: a-level/h2-chemistry/chap-two-chemical-bonding/part9IntermolecularForces/hydrogenBonding.md
-              #   - 2.9.5 Effects of Hydrogen Bonding
+                 - 2.9.4 Effects of Hydrogen Bonding: a-level/h2-chemistry/chap-two-chemical-bonding/part9IntermolecularForces/effectsOfHydrogenBonding.md
               #- 2.10 Simple Molecular and Giant Molecular Structure
               #   - 2.10.1 Simple Molecular Structure
               #   - 2.10.2 Giant Molecular Structure
@@ -72,6 +72,20 @@ nav:
       - H2 Physics:
           - 13. Circuit:
               - Learning Outcome: a-level/h2-physics/circuit/learning-outcome.md
+          - 19. Quantum Physics:
+              - Learning Outcome: a-level/h2-physics/quantum-physics/learning-outcome.md
+              - Chapter Overview: a-level/h2-physics/quantum-physics/chapter-overview.md
+              - 19.1 Wave-Particle Duality of Light: a-level/h2-physics/quantum-physics/19-1-wave-particle-duality-of-light.md
+              - 19.2 Photons, Energy and Momentum: a-level/h2-physics/quantum-physics/19-2-photons-energy-and-momentum.md
+              - 19.3 Wave Nature of Particles: a-level/h2-physics/quantum-physics/19-3-wave-nature-of-particles.md
+              - 19.4 de Broglie Wavelength: a-level/h2-physics/quantum-physics/19-4-de-broglie-wavelength.md
+              - 19.5 Wavefunction and Probability Density: a-level/h2-physics/quantum-physics/19-5-wavefunction-and-probability-density.md
+              - 19.6 Normalisation of Wavefunctions: a-level/h2-physics/quantum-physics/19-6-normalisation-of-wavefunctions.md
+              - 19.7 Superposition and Standing Waves: a-level/h2-physics/quantum-physics/19-7-superposition-and-standing-waves.md
+              - 19.8 Particle in a Box: a-level/h2-physics/quantum-physics/19-8-particle-in-a-box.md
+              - 19.9 Heisenberg Uncertainty Principle: a-level/h2-physics/quantum-physics/19-9-heisenberg-uncertainty-principle.md
+              - 19.10 Atomic Energy Levels and Line Spectra: a-level/h2-physics/quantum-physics/19-10-atomic-energy-levels-and-line-spectra.md
+              - 19.11 Summary and Exam Checklist: a-level/h2-physics/quantum-physics/19-11-summary-and-exam-checklist.md
   - International A:
       - Physics:
           - 1. Physical Quantities and Units:
