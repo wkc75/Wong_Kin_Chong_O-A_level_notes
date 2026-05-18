@@ -168,6 +168,8 @@ extra_javascript:
     type: module
   - path: javascripts/chapTwo/hydrogen-bonding.js
     type: module
+  - path: javascripts/chapTwo/effects-of-hydrogen-bonding.js
+    type: module
   - path: javascripts/chapOne/charged-particle-deflection.js
     type: module
   - path: javascripts/ialPhysics/accuracy-precision-target.js
